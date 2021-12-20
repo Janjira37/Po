@@ -1,6 +1,6 @@
-<style>
+
     body{
-      background-color: #FFB6C1;
+      background-color: #C71585;
     }
     
     hr{
@@ -8,16 +8,20 @@
       border-top:none ;
       border-left:none ;
       border-right:none ;
-      border-width: 7px;
-      border-color: LightPink;
-      width: 5%;
+      border-width: 15px;
+      border-color: MediumVioletRed	;
+      width: 30%;
       
     }
     img{
       height: 150px;
     }
-      
+
       h1 {
+        color: #1e836c;
+      }
+
+      h2 {
         color: #1e836c;
       }
       
@@ -25,5 +29,3 @@
         color: #1e836c;
       }
 
-
-  </style>
